@@ -1,6 +1,6 @@
 # Dice Roller GTK
-![](Example.png) <br>
-A dice roller implemented with C and GTK-4.
+A dice roller implemented with C and GTK-4.<br>
+![](Example.png) 
 
 ### Build and Run
 Must have [GTK-4](https://www.gtk.org/) installed on your system.
