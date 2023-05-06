@@ -1,5 +1,5 @@
 # Dice Roller GTK
-![](Example.png)
+![](Example.png) <br>
 A dice roller implemented with C and GTK-4.
 
 ### Build and Run
