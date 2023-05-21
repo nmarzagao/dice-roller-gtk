@@ -3,7 +3,7 @@
 A dice roller implemented with C and GTK-4.
 
 ### Dependencies
-Must have [GTK-4](https://www.gtk.org/docs/installations/linux/) installed on your system.
+Must have [GTK-4](https://www.gtk.org/docs/installations/linux/) installed on your system to run the app.
 
 #### apt
 ```bash
